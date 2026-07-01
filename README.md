@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hello! 🌱 
+<
+ During the day I'm a office worker for some company. The rest of the time, I'm an entusiast on biodiversity.
+ Studying a MAster degree on Data Science.
+ >
 <!--
 **EmiBonClay/EmiBonClay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
